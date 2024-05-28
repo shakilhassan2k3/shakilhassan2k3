@@ -1,7 +1,7 @@
-### Hi there 👋, my name is Shakil Hassan
-#### I am a student of CSE
-I love to write code in different ways.
-(https://github.com/shakilhassan2k3/shakilhassan2k3/blob/main/Screenshot%202024-05-28%20135640.png?raw=true)
+# Hi there 👋, I am Shakil Hassan
+![Screenshot 2024-05-28 135640](https://github.com/shakilhassan2k3/shakilhassan2k3/assets/169041756/364a8078-9830-480d-b2cd-36c0511801c4)
+
+
 Skills: HTML / CSS / Tailwind / JS / React JS / C /C++ / DSA
 
 - 🌱 I’m currently learning Html, CSS, JS, , Python, C, C++, DSA 
